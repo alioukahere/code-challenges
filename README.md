@@ -4,6 +4,6 @@ This repository contains code challenges implemented in different languages. Eac
 
 I each folder you will find:
 
-* a statement.md file which define the challenge objective
+* a README.md file which define the challenge objective
 * a folder for each language implementation such as *python* for python implementation.
 
