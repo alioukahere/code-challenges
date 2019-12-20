@@ -1,0 +1,26 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "Reverse a string",
+  "main": "reverse_string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alioukahere/code-challenges/tree/master/reverse_string"
+  },
+  "keywords": [
+    "reverse",
+    "string",
+    "javascript"
+  ],
+  "author": "alioukahere",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
